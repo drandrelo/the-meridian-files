@@ -1,0 +1,4 @@
+# https://site.spawning.ai/spawning-ai-txt
+# Please do not use any part of this site to train or ground AI models.
+User-Agent: *
+Disallow: /
