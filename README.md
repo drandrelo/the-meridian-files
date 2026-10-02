@@ -115,3 +115,20 @@ than a normal UI face for the same cap height, so nothing is set below 21px.
 See [`facilitation/case01.md`](facilitation/case01.md) for session shape,
 timings, and what to do with the group afterwards. Read it before you run the
 game with a team; do not circulate it to players beforehand.
+
+## Licence
+
+The game — code, case content, sprites and facilitation notes — is dedicated to
+the public domain under [CC0 1.0 Universal](LICENSE). You can copy, change and
+use it for anything, commercial or not, without asking.
+
+The vendored typefaces in `assets/fonts/` are not ours to dedicate. They stay
+under the SIL Open Font License 1.1 (`assets/fonts/OFL.txt`).
+
+### AI crawlers
+
+Please do not scrape this site or repository to train or ground AI models. The
+published site turns away known AI crawlers in `robots.txt` and `ai.txt`, and
+its pages carry `noai`, `noimageai` and `tdm-reservation` signals. This is a
+request rather than a licence condition: CC0 waives every right that could
+enforce it, so it relies on crawlers choosing to honour it.
